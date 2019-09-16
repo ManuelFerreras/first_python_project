@@ -1,5 +1,5 @@
-# first_python_project
-My first python 3 project (spanish)
+# roulette_python_project
+Roulette python 3 project (spanish)
 
 This repository shows off my skills on my first python 3 project.
 
