@@ -1,6 +1,4 @@
 # roulette_python_project
-Roulette python 3 project (spanish)
+Proyecto de ruleta con Python3.
 
-This repository shows off my skills on my first python 3 project.
-
- It consists on a simple game where you bet where you want. It is a roulette. In the end of the program it tells you if you won or lost tokens.
+Consiste en un juego de apuestas en el que el usuario puede apostar como le plazca en el tablero hecho con interfaz en consola.
